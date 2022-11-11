@@ -1,0 +1,6 @@
+
+<div>
+    <mat-grid-list cols="4" style="width: 100%">
+        <app-coffee-item class="inline-block" mat-grid-tile [coffee]="coffee" *ngFor="let coffee of coffees$ | async"></app-coffee-item>
+    </mat-grid-list>
+</div>

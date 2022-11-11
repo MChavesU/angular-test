@@ -1,0 +1,8 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+
+.inline-block{
+  display: inline-block;
+  padding: 1rem;
+}

@@ -1,0 +1,9 @@
+mat-card {
+    background: lightgray;
+    width: 25rem;
+    height: 25rem;
+  }
+
+.texto{
+  color: #f3dbc3;
+}
